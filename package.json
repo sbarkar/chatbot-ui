@@ -12,7 +12,7 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@dqbd/tiktoken": "^1.0.2",
+    "@dqbd/tiktoken": "^1.0.6",
     "@tabler/icons-react": "^2.9.0",
     "@vercel/analytics": "^0.1.11",
     "eventsource-parser": "^0.1.0",
